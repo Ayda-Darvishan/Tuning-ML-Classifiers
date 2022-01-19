@@ -2,6 +2,7 @@
 The project includes building seven different machine learning classifiers (including Linear Regression, Decision Tree, Bagging, Random Forest, Gradient Boost, AdaBoost, and XGBoost) using Original, OverSampled, and Undersampled data of ReneWind case study, tuning hyperparameters of the models, performance comparisons, and pipeline development for productionizing the final model.
 
 Outline
+
 •	1. Data Overview
 
 •	2. Exploratory Data Analysis (EDA)
