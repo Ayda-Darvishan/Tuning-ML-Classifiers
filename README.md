@@ -1,5 +1,5 @@
 # Tuning ML Classifiers
-The project includes building seven different machine learning classifiers (including Linear Regression, Decision Tree, Bagging, Random Forest, Gradient Boost, AdaBoost, and XGBoost) using Original, OverSampled, and Undersampled data of ReneWind case study, tuning hyperparameters of the models, performance comparisons, and pipeline development for productionizing the final model.
+The project includes building seven different machine learning classifiers (including Linear Regression, Decision Tree, Bagging, Random Forest, Gradient Boost, AdaBoost, and XGBoost) using Original, OverSampled, and UnderSampled data of ReneWind case study, tuning hyperparameters of the models, performance comparisons, and pipeline development for productionizing the final model.
 
 Outline
 
