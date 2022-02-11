@@ -26,5 +26,3 @@ Outline
 •	11. The Final Model
 
 •	12. Pipelines for Productionizing the Final Model
-
-•	13. Business Insights and Conclusions
