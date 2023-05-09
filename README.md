@@ -3,26 +3,26 @@ The project includes building seven different machine learning classifiers (incl
 
 Outline
 
-•	1. Data Overview
+1. Data Overview
 
-•	2. Exploratory Data Analysis (EDA)
+2. Exploratory Data Analysis (EDA)
 
-•	3. Data Preprocessing
+3. Data Preprocessing
 
-•	4. Model Evaluation Criterion
+4. Model Evaluation Criterion
 
-•	5. Model Building with Original Data
+5. Model Building with Original Data
 
-•	6. Model Building with OverSampled Data
+6. Model Building with OverSampled Data
 
-•	7. Model Building with Undersampled data
+7. Model Building with Undersampled data
 
-•	8. Model Selection for Tuning
+8. Model Selection for Tuning
 
-•	9. Hyperparameter Tuning
+9. Hyperparameter Tuning
 
-•	10. Comparing all Models
+10. Comparing all Models
 
-•	11. The Final Model
+11. The Final Model
 
-•	12. Pipelines for Productionizing the Final Model
+12. Pipelines for Productionizing the Final Model
